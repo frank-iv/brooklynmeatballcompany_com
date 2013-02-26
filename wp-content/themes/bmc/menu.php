@@ -342,7 +342,7 @@ get_header(); ?>
               <p>Romaine, arugula, baby portobello mushrooms, cherry tomatoes, red onions, gorgonzola cheese, candied walnuts, tossed with house made apple vinaigrette dressing and drizzled with balsamic glaze.</p>
             </aside>
           </li>
-          <li>House Salad .................................................................................................... 9.99
+          <li>Caesar Salad ................................................................................................... 9.99
             <aside>
               <p>With homemade croutons and house made dressing.</p>
             </aside>
